@@ -1,11 +1,11 @@
 /* title: Windows 95 */
-/* author: [ghplayer2000](https://github.com/ghplayer2000) */
-/* icon: https://ghplayer2000.github.io/gh-groove-themes/95.svg */
+/* author: [gh.plr](https://github.com/ghplr) */
+/* icon: https://ghplr.github.io/gh-groove-themes/95.svg */
 /* description: Windows 95 Theme */
 
 @font-face {
   font-family: W95;
-  src: url(https://ghplayer2000.github.io/gh-groove-themes/w95fa.woff);
+  src: url(https://ghplr.github.io/gh-groove-themes/w95fa.woff);
 }
 
 #app {
@@ -16,7 +16,7 @@
   background: #C0C0C0;
  border-width: 4px;
   border-style: solid;
-  border-image: url(https://raw.githubusercontent.com/Ghplayer2000/gh-groove-themes/refs/heads/main/border.png) 1 stretch;
+  border-image: url(https://raw.githubusercontent.com/ghplr/gh-groove-themes/refs/heads/main/border.png) 1 stretch;
   background: #C0C0C0 !important;
   box-shadow: 2px 2px black;
 }
@@ -24,7 +24,7 @@
 #app div.groove-home-inner-tile {
   border-width: 4px;
   border-style: solid;
-  border-image: url(https://raw.githubusercontent.com/Ghplayer2000/gh-groove-themes/refs/heads/main/border.png) 1 stretch;
+  border-image: url(https://raw.githubusercontent.com/ghplr/gh-groove-themes/refs/heads/main/border.png) 1 stretch;
   background: #C0C0C0 !important;
   box-shadow: 4px 4px black;
 }
@@ -65,7 +65,7 @@
     border-radius: 0px;
     border-width: 4px; 
     border-style: solid;
-    border-image: url(https://raw.githubusercontent.com/Ghplayer2000/gh-groove-themes/refs/heads/main/border.png) 1 stretch;
+    border-image: url(https://raw.githubusercontent.com/ghplr/gh-groove-themes/refs/heads/main/border.png) 1 stretch;
     background: #C0C0C0 !important;
     position: absolute;
     width: max-content;
@@ -82,7 +82,7 @@
 #app .inner-page .app-list {
   border-width: 4px;
   border-style: solid;
-  border-image: url(https://raw.githubusercontent.com/Ghplayer2000/gh-groove-themes/refs/heads/main/border.png) 1 stretch;
+  border-image: url(https://raw.githubusercontent.com/ghplr/gh-groove-themes/refs/heads/main/border.png) 1 stretch;
   background: #C0C0C0 !important;
   box-shadow: 4px 4px black;
 }
@@ -90,7 +90,7 @@
 /* #app .inner-page > .app-list.app-list-container {
   border-width: 4px;
   border-style: solid;
-  border-image: url(https://raw.githubusercontent.com/Ghplayer2000/gh-groove-themes/refs/heads/main/border.png) 1 stretch;
+  border-image: url(https://raw.githubusercontent.com/ghplr/gh-groove-themes/refs/heads/main/border.png) 1 stretch;
   background: #C0C0C0 !important;
   margin: 8px; 
 } */
@@ -118,7 +118,7 @@
     border-radius: 0px;
     border-width: 4px; 
     border-style: solid;
-    border-image: url(https://raw.githubusercontent.com/Ghplayer2000/gh-groove-themes/refs/heads/main/border.png) 1 stretch;
+    border-image: url(https://raw.githubusercontent.com/ghplr/gh-groove-themes/refs/heads/main/border.png) 1 stretch;
     background: #C0C0C0 !important;
     position: absolute;
     width: max-content;
